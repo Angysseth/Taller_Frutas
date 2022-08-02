@@ -1,0 +1,28 @@
+body{
+    background-color: #75373C;
+    color: #F5BCC1;
+    font-family: helvetica;
+    text-shadow: 1px 1px 1px black;
+    width: 22%;
+}
+
+h2{
+    font-size: xx-large;   
+}
+
+li{
+    font-size: x-large;
+}
+
+button{
+    background-color: #F5BCC1;
+    border: none;
+    color: #3d1e21;
+    padding: 6px;
+    width: 45%;
+    text-shadow: 1px 0px 1px #75373C;
+    font-size: large;
+    margin-top: 40px;
+    margin-left: 10px;
+    cursor: pointer;
+}
